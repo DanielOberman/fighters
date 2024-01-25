@@ -12,32 +12,48 @@
     display: flex;
     align-items: center;
     gap: 48px;
+    padding-left: 20px;
+
 }
 
 .list {
     width: 1464px;
-    max-height: 496px;
+    max-height: 480px;
     display: flex;
     justify-content: center;
     flex: 1; 
     margin: 0 10px; 
     flex-wrap: wrap;
-    gap: 48px;
+    gap: 33px 7px;
     overflow-y: auto;
 
     &LastRow {
         width: 100%;
         display: flex;
         align-items: center;
-        gap: 48px;
-        justify-content: center;
-        padding-bottom: 33px;
+        gap: 7px;
+        justify-content: center;        
     }
 
     &Item {
-        width: 120px;
-        height: 208px;
+        transition: all 1s ease-in-out;
         cursor: pointer;
+        width: 140px;
+        height: 220px;
+        border-radius: 6px;
+        display: flex;
+        height: 100%;
+        justify-content: center;
+        padding: 8px;
+
+        & > img {
+            width: 120px;
+            height: 208px;
+        }
+
+        &:hover {
+            background: #0943D9;
+        }
     }
 }
 

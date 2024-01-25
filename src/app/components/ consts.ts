@@ -49,19 +49,19 @@ export const FIGHTERS: TFighter[] = [
     {
         id: 1,
         fighter: fighter1,
-        videoLink: 'https://s3.dzeninfra.ru/mango/old-converted-video/vod-content/ed/96/bd/74/7a/ec/83/d9/ac/24/cd/fc/52/00/66/01/c07fab3e-3ace-405d-b8cf-812d2fe52749/preview/ed96bd747aec83d9ac24cdfc52006601_vmaf-preview-10s-360.mp4',
+        videoLink: 'https://www.youtube.com/shorts/VcO53znmA7U',
         name: 'Арсений Груздев',
     },
     {
         id: 2,
         fighter: fighter2,
-        videoLink: 'https://s3.dzeninfra.ru/mango/converted-video/vod-content/13/01/52/85/72/09/27/14/60/7/14232bc7-82ee-498c-820f-e6243438475c/preview/1f21858c3ec74bcbe7c0d698777361bc_vmaf-preview-10s-360.mp4',
+        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
         name: 'Катя Кабанец',
     },
     {
         id: 3,
         fighter: fighter3,
-                videoLink: 'https://s3.dzeninfra.ru/mango/converted-video/vod-content/13/01/52/85/72/09/27/14/60/7/14232bc7-82ee-498c-820f-e6243438475c/preview/1f21858c3ec74bcbe7c0d698777361bc_vmaf-preview-10s-360.mp4',
+                videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
 
         name: 'Ирина Галушко',
     },
@@ -74,140 +74,140 @@ export const FIGHTERS: TFighter[] = [
     {
         id: 5,
         fighter: fighter5,
-        videoLink: 'https://s3.dzeninfra.ru/mango/converted-video/vod-content/13/01/52/85/72/09/27/14/60/7/14232bc7-82ee-498c-820f-e6243438475c/preview/1f21858c3ec74bcbe7c0d698777361bc_vmaf-preview-10s-360.mp4',
+        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
         name: 'Марина Буторина',
     },
     {
         id: 6,
         fighter: fighter6,
-        videoLink: 'https://s3.dzeninfra.ru/mango/converted-video/vod-content/13/01/52/85/72/09/27/14/60/7/14232bc7-82ee-498c-820f-e6243438475c/preview/1f21858c3ec74bcbe7c0d698777361bc_vmaf-preview-10s-360.mp4',
+        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
 
         name: 'Саша Брикер',
     },
     {
         id: 7,
         fighter: fighter7,
-        videoLink: 'https://s3.dzeninfra.ru/mango/converted-video/vod-content/13/01/52/85/72/09/27/14/60/7/14232bc7-82ee-498c-820f-e6243438475c/preview/1f21858c3ec74bcbe7c0d698777361bc_vmaf-preview-10s-360.mp4',
+        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
         name: 'Макс Балтин',
     },
     {
         id: 8,
         fighter: fighter8,
-        videoLink: 'https://s3.dzeninfra.ru/mango/converted-video/vod-content/13/01/52/85/72/09/27/14/60/7/14232bc7-82ee-498c-820f-e6243438475c/preview/1f21858c3ec74bcbe7c0d698777361bc_vmaf-preview-10s-360.mp4',
+        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
         name: 'Тимур Агеев',
     },
     {
         id: 9,
         fighter: fighter9,
-        videoLink: 'https://s3.dzeninfra.ru/mango/converted-video/vod-content/13/01/52/85/72/09/27/14/60/7/14232bc7-82ee-498c-820f-e6243438475c/preview/1f21858c3ec74bcbe7c0d698777361bc_vmaf-preview-10s-360.mp4',
+        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
         name: 'Маша Абрамович',
     },
     {
         id: 10,
         fighter: fighter10,
-        videoLink: 'https://s3.dzeninfra.ru/mango/converted-video/vod-content/13/01/52/85/72/09/27/14/60/7/14232bc7-82ee-498c-820f-e6243438475c/preview/1f21858c3ec74bcbe7c0d698777361bc_vmaf-preview-10s-360.mp4',
+        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
         name: 'Наташа Капырина',
     },
     {
         id: 11,
         fighter: fighter11,
-        videoLink: 'https://s3.dzeninfra.ru/mango/converted-video/vod-content/13/01/52/85/72/09/27/14/60/7/14232bc7-82ee-498c-820f-e6243438475c/preview/1f21858c3ec74bcbe7c0d698777361bc_vmaf-preview-10s-360.mp4',
+        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
         name: 'Миша Хараськин',
     },
     {
         id: 12,
         fighter: fighter12,
-        videoLink: 'https://s3.dzeninfra.ru/mango/converted-video/vod-content/13/01/52/85/72/09/27/14/60/7/14232bc7-82ee-498c-820f-e6243438475c/preview/1f21858c3ec74bcbe7c0d698777361bc_vmaf-preview-10s-360.mp4',
+        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
         name: 'Дима Клитончик',
     },
     {
         id: 13,
         fighter: fighter13,
-        videoLink: 'https://s3.dzeninfra.ru/mango/converted-video/vod-content/13/01/52/85/72/09/27/14/60/7/14232bc7-82ee-498c-820f-e6243438475c/preview/1f21858c3ec74bcbe7c0d698777361bc_vmaf-preview-10s-360.mp4',
+        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
         name: 'Саша Копров',
     },
     {
         id: 14,
         fighter: fighter14,
-        videoLink: 'https://s3.dzeninfra.ru/mango/converted-video/vod-content/13/01/52/85/72/09/27/14/60/7/14232bc7-82ee-498c-820f-e6243438475c/preview/1f21858c3ec74bcbe7c0d698777361bc_vmaf-preview-10s-360.mp4',
+        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
         name: 'Катя Кривцова',
     },
     {
         id: 15,
         fighter: fighter15,
-        videoLink: 'https://s3.dzeninfra.ru/mango/converted-video/vod-content/13/01/52/85/72/09/27/14/60/7/14232bc7-82ee-498c-820f-e6243438475c/preview/1f21858c3ec74bcbe7c0d698777361bc_vmaf-preview-10s-360.mp4',
+        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
         name: 'Коля Кулаков',
     },
     {
         id: 16,
         fighter: fighter16,
-        videoLink: 'https://s3.dzeninfra.ru/mango/converted-video/vod-content/13/01/52/85/72/09/27/14/60/7/14232bc7-82ee-498c-820f-e6243438475c/preview/1f21858c3ec74bcbe7c0d698777361bc_vmaf-preview-10s-360.mp4',
+        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
         name: 'Игорь Кузнецов',
     },
     {
         id: 17,
         fighter: fighter17,
-        videoLink: 'https://s3.dzeninfra.ru/mango/converted-video/vod-content/13/01/52/85/72/09/27/14/60/7/14232bc7-82ee-498c-820f-e6243438475c/preview/1f21858c3ec74bcbe7c0d698777361bc_vmaf-preview-10s-360.mp4',
+        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
         name: 'Оля Липина',
     },
     {
         id: 18,
         fighter: fighter18,
-        videoLink: 'https://s3.dzeninfra.ru/mango/converted-video/vod-content/13/01/52/85/72/09/27/14/60/7/14232bc7-82ee-498c-820f-e6243438475c/preview/1f21858c3ec74bcbe7c0d698777361bc_vmaf-preview-10s-360.mp4',
+        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
         name: 'Тимур Мухарямов',
     },
     {
         id: 19,
         fighter: fighter19,
-        videoLink: 'https://s3.dzeninfra.ru/mango/converted-video/vod-content/13/01/52/85/72/09/27/14/60/7/14232bc7-82ee-498c-820f-e6243438475c/preview/1f21858c3ec74bcbe7c0d698777361bc_vmaf-preview-10s-360.mp4',
+        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
         name: 'Саша Исаев',
     },
     {
         id: 20,
         fighter: fighter20,
-        videoLink: 'https://s3.dzeninfra.ru/mango/converted-video/vod-content/13/01/52/85/72/09/27/14/60/7/14232bc7-82ee-498c-820f-e6243438475c/preview/1f21858c3ec74bcbe7c0d698777361bc_vmaf-preview-10s-360.mp4',
+        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
         name: 'Даниэль Оберман',
     },
     {
         id: 21,
         fighter: fighter21,
-        videoLink: 'https://s3.dzeninfra.ru/mango/converted-video/vod-content/13/01/52/85/72/09/27/14/60/7/14232bc7-82ee-498c-820f-e6243438475c/preview/1f21858c3ec74bcbe7c0d698777361bc_vmaf-preview-10s-360.mp4',
+        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
         name: 'Саша Окунев',
     },
     {
         id: 22,
         fighter: fighter22,
-        videoLink: 'https://s3.dzeninfra.ru/mango/converted-video/vod-content/13/01/52/85/72/09/27/14/60/7/14232bc7-82ee-498c-820f-e6243438475c/preview/1f21858c3ec74bcbe7c0d698777361bc_vmaf-preview-10s-360.mp4',
+        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
         name: 'Альфия Панова',
     },
     {
         id: 23,
         fighter: fighter23,
-        videoLink: 'https://s3.dzeninfra.ru/mango/converted-video/vod-content/13/01/52/85/72/09/27/14/60/7/14232bc7-82ee-498c-820f-e6243438475c/preview/1f21858c3ec74bcbe7c0d698777361bc_vmaf-preview-10s-360.mp4',
+        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
         name: 'Костя Рыбалко',
     },
     {
         id: 24,
         fighter: fighter24,
-        videoLink: 'https://s3.dzeninfra.ru/mango/converted-video/vod-content/13/01/52/85/72/09/27/14/60/7/14232bc7-82ee-498c-820f-e6243438475c/preview/1f21858c3ec74bcbe7c0d698777361bc_vmaf-preview-10s-360.mp4',
+        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
         name: 'Лена Савчик'
     },
     {
         id: 25,
         fighter: fighter25,
-        videoLink: 'https://s3.dzeninfra.ru/mango/converted-video/vod-content/13/01/52/85/72/09/27/14/60/7/14232bc7-82ee-498c-820f-e6243438475c/preview/1f21858c3ec74bcbe7c0d698777361bc_vmaf-preview-10s-360.mp4',
+        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
         name: 'Юра Симонов'
     },
     {
         id: 26,
         fighter: fighter26,
-        videoLink: 'https://s3.dzeninfra.ru/mango/converted-video/vod-content/13/01/52/85/72/09/27/14/60/7/14232bc7-82ee-498c-820f-e6243438475c/preview/1f21858c3ec74bcbe7c0d698777361bc_vmaf-preview-10s-360.mp4',
+        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
         name: 'Денис Ситдиков'
     },
     {
         id: 27,
         fighter: fighter27,
-        videoLink: 'https://s3.dzeninfra.ru/mango/converted-video/vod-content/13/01/52/85/72/09/27/14/60/7/14232bc7-82ee-498c-820f-e6243438475c/preview/1f21858c3ec74bcbe7c0d698777361bc_vmaf-preview-10s-360.mp4',
+        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
         name: 'Паша Солодо...ков'
     },
 ];
@@ -216,43 +216,43 @@ export const FIGHTERS_LAST_ROW: TFighter[] = [
     {
         id: 28,
         fighter: fighter28,
-        videoLink: 'https://s3.dzeninfra.ru/mango/converted-video/vod-content/13/01/52/85/72/09/27/14/60/7/14232bc7-82ee-498c-820f-e6243438475c/preview/1f21858c3ec74bcbe7c0d698777361bc_vmaf-preview-10s-360.mp4',
+        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
         name: 'Саша Трофимова'
     },
     {
         id: 29,
         fighter: fighter29,
-        videoLink: 'https://s3.dzeninfra.ru/mango/converted-video/vod-content/13/01/52/85/72/09/27/14/60/7/14232bc7-82ee-498c-820f-e6243438475c/preview/1f21858c3ec74bcbe7c0d698777361bc_vmaf-preview-10s-360.mp4',
+        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
         name: 'Сева Троянов'
     },
     {
         id: 30,
         fighter: fighter30,
-        videoLink: 'https://s3.dzeninfra.ru/mango/converted-video/vod-content/13/01/52/85/72/09/27/14/60/7/14232bc7-82ee-498c-820f-e6243438475c/preview/1f21858c3ec74bcbe7c0d698777361bc_vmaf-preview-10s-360.mp4',
+        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
         name: 'Петя Васильев'
     },
     {
         id: 31,
         fighter: fighter31,
-        videoLink: 'https://s3.dzeninfra.ru/mango/converted-video/vod-content/13/01/52/85/72/09/27/14/60/7/14232bc7-82ee-498c-820f-e6243438475c/preview/1f21858c3ec74bcbe7c0d698777361bc_vmaf-preview-10s-360.mp4',
+        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
         name: 'Вася Васильев'
     },
     {
         id: 32,
         fighter: fighter32,
-        videoLink: 'https://s3.dzeninfra.ru/mango/converted-video/vod-content/13/01/52/85/72/09/27/14/60/7/14232bc7-82ee-498c-820f-e6243438475c/preview/1f21858c3ec74bcbe7c0d698777361bc_vmaf-preview-10s-360.mp4',
+        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
         name: 'Полина Юнкина'
     },
     {
         id: 33,
         fighter: fighter33,
-        videoLink: 'https://s3.dzeninfra.ru/mango/converted-video/vod-content/13/01/52/85/72/09/27/14/60/7/14232bc7-82ee-498c-820f-e6243438475c/preview/1f21858c3ec74bcbe7c0d698777361bc_vmaf-preview-10s-360.mp4',
+        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
         name: 'Игорь и Дима'
     },
     {
         id: 34,
         fighter: fighter34,
-        videoLink: 'https://s3.dzeninfra.ru/mango/converted-video/vod-content/13/01/52/85/72/09/27/14/60/7/14232bc7-82ee-498c-820f-e6243438475c/preview/1f21858c3ec74bcbe7c0d698777361bc_vmaf-preview-10s-360.mp4',
+        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
         name: 'Виталя Гузев'
     },
     {

@@ -7,6 +7,7 @@ import { Content } from '../content';
 
 import { AudioPlayer } from '../audio-player';
 import { useAppApi } from './hooks';
+import bg from '../images/bg.png';
 // import cursor from '../images/cursor.png';
 // style={{ cursor: `url(${cursor}) 15 15, auto` }}
 
@@ -25,7 +26,13 @@ export const App:React.FC = () => {
     } = useAppApi();
 
     return (
-        <div className={styles.root} >
+        <div className={styles.root} style={{
+            backgroundImage: `url(${bg})`,
+            backgroundSize: 'cover', 
+            backgroundRepeat: 'no-repeat', 
+            backgroundPosition: 'center center',
+            width: '100%', 
+            height: '100%' }}>
             {ringtone &&  <AudioPlayer src={ringtone} />}
             <AppModal nextVideo={nextVideo} prevVideo={prevVideo} currentFighter={currentFighter} onClose={() => onCurrentFighterChange(null)}>
                 <ReactPlayer  playing={true} url={currentFighter?.videoLink} loop controls={true} volume={1} />

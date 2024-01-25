@@ -49,7 +49,7 @@ export const useContentApi = (isScrollTop: boolean,
     const scrollDown = () => {
         if (scrollContainerRef.current) {
           // @ts-ignore
-          scrollContainerRef.current.scrollTop = 513
+          scrollContainerRef.current.scrollTop = 513;
 
         }
     };

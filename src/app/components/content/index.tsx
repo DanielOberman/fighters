@@ -28,12 +28,12 @@ export const Content:React.FC<IProps> = ({isScrollTop, setIsScrollTop, onCurrent
             <ContentArrows isScrollTop={isScrollTop} scrollToTop={scrollToTop}  scrollDown={scrollDown} />
             <div className={styles.list} ref={scrollContainerRef}>
                 {
-                    FIGHTERS.map(fighter => <img onClick={() => onCurrentFighterChange(fighter)} className={styles.listItem} key={fighter.name} src={fighter.fighter} alt={fighter.name} />)
+                    FIGHTERS.map(fighter =>  <div className={styles.listItem}><img className={styles.listItemImg} onClick={() => onCurrentFighterChange(fighter)} key={fighter.name} src={fighter.fighter} alt={fighter.name} /></div>)
                 }
                 
                 <div className={styles.listLastRow}>
                     {
-                        FIGHTERS_LAST_ROW.map(fighter => <img onClick={() => onCurrentFighterChange(fighter)} className={styles.listItem} key={fighter.name} src={fighter.fighter} alt={fighter.name} />)
+                        FIGHTERS_LAST_ROW.map(fighter => <div className={styles.listItem}><img className={styles.listItemImg} onClick={() => onCurrentFighterChange(fighter)}  key={fighter.name} src={fighter.fighter} alt={fighter.name} /></div>)
                     }
                 </div>
             </div>
