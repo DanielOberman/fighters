@@ -2,10 +2,6 @@ body, html, body  {
     margin: 0;
     padding: 0;
     height: 100%;
-
-    .ReactModalPortal {
-        position: absolute;
-    }
 }
 
 .ReactModalPortal {
@@ -23,6 +19,7 @@ body, html, body  {
     align-items: center;
     justify-items: center;
     overflow: auto;   
+    background: linear-gradient(#060D22, #07236B);
 
     .ReactModalPortal {
         position: absolute;

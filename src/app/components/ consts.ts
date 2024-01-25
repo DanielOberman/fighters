@@ -49,165 +49,165 @@ export const FIGHTERS: TFighter[] = [
     {
         id: 1,
         fighter: fighter1,
-        videoLink: 'https://www.youtube.com/shorts/VcO53znmA7U',
+        videoLink: 'https://youtu.be/Fkqv_LoaSfw',
         name: 'Арсений Груздев',
     },
     {
         id: 2,
         fighter: fighter2,
-        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
+        videoLink: '',
         name: 'Катя Кабанец',
     },
     {
         id: 3,
         fighter: fighter3,
-                videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
+        videoLink: 'https://www.youtube.com/shorts/oJz1WYNXmuI',
 
         name: 'Ирина Галушко',
     },
     {
         id: 4,
         fighter: fighter4,
-        videoLink: 'https://www.youtube.com/watch?v=_o83GdgKsb8&t=1s&ab_channel=%D0%91%D0%B8%D1%82%D1%8B%D0%B9%D0%9F%D0%B8%D0%BA%D1%81%D0%B5%D0%BB%D1%8C',
+        videoLink: 'https://www.youtube.com/shorts/0UCaoBUwXNc',
         name: 'Лёша Данилов',
     },
     {
         id: 5,
         fighter: fighter5,
-        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
+        videoLink: 'https://www.youtube.com/shorts/NcRTNzF2oUE',
         name: 'Марина Буторина',
     },
     {
         id: 6,
         fighter: fighter6,
-        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
+        videoLink: 'https://www.youtube.com/shorts/o-GQtYLKIL0',
 
         name: 'Саша Брикер',
     },
     {
         id: 7,
         fighter: fighter7,
-        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
+        videoLink: 'https://www.youtube.com/shorts/fTOaTbH8yy8',
         name: 'Макс Балтин',
     },
     {
         id: 8,
         fighter: fighter8,
-        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
+        videoLink: 'https://www.youtube.com/shorts/voxrqLhbqJE',
         name: 'Тимур Агеев',
     },
     {
         id: 9,
         fighter: fighter9,
-        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
+        videoLink: 'https://www.youtube.com/shorts/Uy48jumcLIA',
         name: 'Маша Абрамович',
     },
     {
         id: 10,
         fighter: fighter10,
-        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
+        videoLink: '',
         name: 'Наташа Капырина',
     },
     {
         id: 11,
         fighter: fighter11,
-        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
+        videoLink: '',
         name: 'Миша Хараськин',
     },
     {
         id: 12,
         fighter: fighter12,
-        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
+        videoLink: '',
         name: 'Дима Клитончик',
     },
     {
         id: 13,
         fighter: fighter13,
-        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
+        videoLink: '',
         name: 'Саша Копров',
     },
     {
         id: 14,
         fighter: fighter14,
-        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
+        videoLink: '',
         name: 'Катя Кривцова',
     },
     {
         id: 15,
         fighter: fighter15,
-        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
+        videoLink: '',
         name: 'Коля Кулаков',
     },
     {
         id: 16,
         fighter: fighter16,
-        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
+        videoLink: '',
         name: 'Игорь Кузнецов',
     },
     {
         id: 17,
         fighter: fighter17,
-        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
+        videoLink: '',
         name: 'Оля Липина',
     },
     {
         id: 18,
         fighter: fighter18,
-        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
+        videoLink: '',
         name: 'Тимур Мухарямов',
     },
     {
         id: 19,
         fighter: fighter19,
-        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
+        videoLink: 'https://www.youtube.com/shorts/dbo81dn8bfU',
         name: 'Саша Исаев',
     },
     {
         id: 20,
         fighter: fighter20,
-        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
+        videoLink: '',
         name: 'Даниэль Оберман',
     },
     {
         id: 21,
         fighter: fighter21,
-        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
+        videoLink: '',
         name: 'Саша Окунев',
     },
     {
         id: 22,
         fighter: fighter22,
-        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
+        videoLink: '',
         name: 'Альфия Панова',
     },
     {
         id: 23,
         fighter: fighter23,
-        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
+        videoLink: 'https://youtube.com/shorts/wJ6C6yuy67Q',
         name: 'Костя Рыбалко',
     },
     {
         id: 24,
         fighter: fighter24,
-        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
+        videoLink: 'https://www.youtube.com/shorts/FaOT33kL6r8',
         name: 'Лена Савчик'
     },
     {
         id: 25,
         fighter: fighter25,
-        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
+        videoLink: '',
         name: 'Юра Симонов'
     },
     {
         id: 26,
         fighter: fighter26,
-        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
+        videoLink: 'https://www.youtube.com/shorts/MnxuVMKlZ6E',
         name: 'Денис Ситдиков'
     },
     {
         id: 27,
         fighter: fighter27,
-        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
+        videoLink: 'https://www.youtube.com/shorts/VcO53znmA7U',
         name: 'Паша Солодо...ков'
     },
 ];
@@ -216,49 +216,49 @@ export const FIGHTERS_LAST_ROW: TFighter[] = [
     {
         id: 28,
         fighter: fighter28,
-        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
+        videoLink: 'https://youtube.com/shorts/HSlLdRyUCys',
         name: 'Саша Трофимова'
     },
     {
         id: 29,
         fighter: fighter29,
-        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
+        videoLink: 'https://youtube.com/shorts/G_4a9cgfcgU',
         name: 'Сева Троянов'
     },
     {
         id: 30,
         fighter: fighter30,
-        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
+        videoLink: 'https://youtube.com/shorts/yEQNdhMXaXs',
         name: 'Петя Васильев'
     },
     {
         id: 31,
         fighter: fighter31,
-        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
+        videoLink: '',
         name: 'Вася Васильев'
     },
     {
         id: 32,
         fighter: fighter32,
-        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
+        videoLink: 'https://youtube.com/shorts/0CdZGCfKlGk',
         name: 'Полина Юнкина'
     },
     {
         id: 33,
         fighter: fighter33,
-        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
+        videoLink: 'https://www.youtube.com/shorts/pE03Hw-Jvmc',
         name: 'Игорь и Дима'
     },
     {
         id: 34,
         fighter: fighter34,
-        videoLink: 'https://www.youtube.com/watch?v=gaVzPW4pf0k&ab_channel=Nin10doland',
+        videoLink: '',
         name: 'Виталя Гузев'
     },
     {
         id: 35,
         fighter: fighter35,
-        videoLink: 'https://www.youtube.com/watch?v=Z__i7C2OQQs&t=5s&ab_channel=InterdimensionalTV',
+        videoLink: '',
         name: 'Марина Кубанина'
     },
 ]

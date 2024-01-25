@@ -7,9 +7,7 @@ import { Content } from '../content';
 
 import { AudioPlayer } from '../audio-player';
 import { useAppApi } from './hooks';
-import bg from '../images/bg.png';
-// import cursor from '../images/cursor.png';
-// style={{ cursor: `url(${cursor}) 15 15, auto` }}
+import cursor from '../images/cursor.png';
 
 
 export const App:React.FC = () => {
@@ -22,20 +20,14 @@ export const App:React.FC = () => {
         onCurrentFighterChange,
         nextVideo,
         prevVideo,
-        currentFighter
+        currentFighter,
     } = useAppApi();
 
     return (
-        <div className={styles.root} style={{
-            backgroundImage: `url(${bg})`,
-            backgroundSize: 'cover', 
-            backgroundRepeat: 'no-repeat', 
-            backgroundPosition: 'center center',
-            width: '100%', 
-            height: '100%' }}>
+        <div className={styles.root} style={{ cursor: `url(${cursor}) 15 15, auto` }}>
             {ringtone &&  <AudioPlayer src={ringtone} />}
             <AppModal nextVideo={nextVideo} prevVideo={prevVideo} currentFighter={currentFighter} onClose={() => onCurrentFighterChange(null)}>
-                <ReactPlayer  playing={true} url={currentFighter?.videoLink} loop controls={true} volume={1} />
+                <ReactPlayer onEnded={() => nextVideo() } playing={true} url={currentFighter?.videoLink} controls={true} volume={1}  />
             </AppModal>
             <Content onRingtoneChange={onRingtoneChange} onCurrentFighterChange={onCurrentFighterChange}  isScrollTop={isScrollTop} setIsScrollTop={setIsScrollTop} />
         </div>

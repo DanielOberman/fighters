@@ -16,6 +16,7 @@ export const useAppApi = () => {
         if (fighter) {
             setRingtone('https://vgmsite.com/soundtracks/mortal-kombat-ii-arcade-1993/dwadaumm/45.%20Coin.mp3');
         } else {
+            console.log(1);
             setRingtone('https://www.myinstants.com/media/sounds/flawless-victory-mk-x.mp3');
         }
 
@@ -23,10 +24,14 @@ export const useAppApi = () => {
     }
 
     const nextVideo = () => {
+        if(currentFighter?.id === ALL_FIGHTERS[ALL_FIGHTERS.length - 1].id) {
+            handleCurrentFighterChange(null);
+        }
+
         if(currentFighter) {
             const nextFighter = ALL_FIGHTERS.find((fighter)=> fighter.id === currentFighter?.id + 1);
-            if(nextFighter)  setCurrentFighter(nextFighter)
-           
+            
+            if(nextFighter) setCurrentFighter(nextFighter)
         }
     }
 
@@ -34,7 +39,6 @@ export const useAppApi = () => {
         if(currentFighter) {
             const nextFighter = ALL_FIGHTERS.find((fighter)=> fighter.id === currentFighter?.id - 1);
             if(nextFighter)  setCurrentFighter(nextFighter)
-           
         }
     }
 
