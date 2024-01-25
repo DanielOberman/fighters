@@ -1,0 +1,54 @@
+.root {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 80px;
+    align-items: center;
+    width: 1576px;
+    height: 900px;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    gap: 48px;
+}
+
+.list {
+    width: 1464px;
+    max-height: 496px;
+    display: flex;
+    justify-content: center;
+    flex: 1; 
+    margin: 0 10px; 
+    flex-wrap: wrap;
+    gap: 48px;
+    overflow-y: auto;
+
+    &LastRow {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        gap: 48px;
+        justify-content: center;
+        padding-bottom: 33px;
+    }
+
+    &Item {
+        width: 120px;
+        height: 208px;
+        cursor: pointer;
+    }
+}
+
+.trueFighters {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+    gap: 48px;
+
+    &Item {
+        cursor: pointer;
+    }
+}
