@@ -15,7 +15,7 @@ interface IProps extends React.PropsWithChildren {
 
 const customStyles = {
     content: {
-      width: '485px',
+      width: '652px',
       top: '50%',
       left: '50%',
       right: 'auto',

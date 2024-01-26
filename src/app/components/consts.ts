@@ -233,7 +233,7 @@ export const FIGHTERS_LAST_ROW: TFighter[] = [
     {
         id: 31,
         fighter: fighter31,
-        videoLink: '',
+        videoLink: 'https://youtube.com/shorts/WMUJIVIcTsw',
         name: 'Вася Васильев'
     },
     {
