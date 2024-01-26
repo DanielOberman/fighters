@@ -55,14 +55,13 @@ export const FIGHTERS: TFighter[] = [
     {
         id: 2,
         fighter: fighter2,
-        videoLink: '',
+        videoLink: 'https://youtube.com/shorts/48gJoA1nB9I',
         name: 'Катя Кабанец',
     },
     {
         id: 3,
         fighter: fighter3,
         videoLink: 'https://www.youtube.com/shorts/oJz1WYNXmuI',
-
         name: 'Ирина Галушко',
     },
     {
@@ -105,37 +104,37 @@ export const FIGHTERS: TFighter[] = [
     {
         id: 10,
         fighter: fighter10,
-        videoLink: '',
+        videoLink: 'https://youtube.com/shorts/ddxnui_hG3c',
         name: 'Наташа Капырина',
     },
     {
         id: 11,
         fighter: fighter11,
-        videoLink: '',
+        videoLink: 'https://youtube.com/shorts/SyjxsJifCho',
         name: 'Миша Хараськин',
     },
     {
         id: 12,
         fighter: fighter12,
-        videoLink: '',
+        videoLink: 'https://youtube.com/shorts/N4xu2GTAKik',
         name: 'Дима Клитончик',
     },
     {
         id: 13,
         fighter: fighter13,
-        videoLink: '',
+        videoLink: 'https://youtube.com/shorts/F3Jm0vL0YFE',
         name: 'Саша Копров',
     },
     {
         id: 14,
         fighter: fighter14,
-        videoLink: '',
+        videoLink: 'https://youtube.com/shorts/G4LxOKhxaKg',
         name: 'Катя Кривцова',
     },
     {
         id: 15,
         fighter: fighter15,
-        videoLink: '',
+        videoLink: 'https://youtube.com/shorts/e1pbRtaKbek',
         name: 'Коля Кулаков',
     },
     {
@@ -253,7 +252,7 @@ export const FIGHTERS_LAST_ROW: TFighter[] = [
         id: 34,
         fighter: fighter34,
         videoLink: '',
-        name: 'Виталя Гузев'
+        name: 'Виталий Гузев'
     },
     {
         id: 35,

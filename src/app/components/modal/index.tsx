@@ -3,7 +3,7 @@ import React from "react";
 import Modal from 'react-modal';
 import { ModalArrow } from "./modal-arrow";
 import { TFighter } from "../models";
-import { FIRST_FIGHTER_ID, LAST_FIGHTER_ID } from "../ consts";
+import { FIRST_FIGHTER_ID, LAST_FIGHTER_ID } from "../consts";
 
 
 interface IProps extends React.PropsWithChildren {
