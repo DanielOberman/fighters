@@ -140,19 +140,19 @@ export const FIGHTERS: TFighter[] = [
     {
         id: 16,
         fighter: fighter16,
-        videoLink: '',
+        videoLink: 'https://youtube.com/shorts/q3NblQVv6wI',
         name: 'Игорь Кузнецов',
     },
     {
         id: 17,
         fighter: fighter17,
-        videoLink: '',
+        videoLink: 'https://youtube.com/shorts/NJgI-ZFtHTU',
         name: 'Оля Липина',
     },
     {
         id: 18,
         fighter: fighter18,
-        videoLink: '',
+        videoLink: 'https://youtube.com/shorts/_DfPXcZ2Y7Q',
         name: 'Тимур Мухарямов',
     },
     {
@@ -164,19 +164,19 @@ export const FIGHTERS: TFighter[] = [
     {
         id: 20,
         fighter: fighter20,
-        videoLink: '',
+        videoLink: 'https://youtube.com/shorts/fkyVI-IV1KA',
         name: 'Даниэль Оберман',
     },
     {
         id: 21,
         fighter: fighter21,
-        videoLink: '',
+        videoLink: 'https://youtube.com/shorts/GEe2eFS8F2E',
         name: 'Саша Окунев',
     },
     {
         id: 22,
         fighter: fighter22,
-        videoLink: '',
+        videoLink: 'https://youtube.com/shorts/iFFASoORqcY',
         name: 'Альфия Панова',
     },
     {

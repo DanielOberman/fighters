@@ -35,7 +35,7 @@ export const AppModal: React.FC<IProps> = ({children, onClose, currentFighter, n
         style={customStyles}
   >
       <ModalArrow onClick={prevVideo}  disabled={currentFighter?.id === FIRST_FIGHTER_ID} type="prev"  />
-      {children}
+        {children}
       <ModalArrow onClick={nextVideo} disabled={currentFighter?.id === LAST_FIGHTER_ID} />
   </Modal>
 }

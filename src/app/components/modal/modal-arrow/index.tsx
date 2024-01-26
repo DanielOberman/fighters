@@ -24,8 +24,7 @@ export const ModalArrow:React.FC<IProps> = ({type, disabled, onClick }) => {
         }
     }
 
-   return  <button className={styles.root}>
-        {content()}
-</button>
-
-}
+   return  <button className={styles.root} >
+            {content()}
+            </button>
+    }
