@@ -194,7 +194,7 @@ export const FIGHTERS: TFighter[] = [
     {
         id: 25,
         fighter: fighter25,
-        videoLink: '',
+        videoLink: 'https://youtube.com/shorts/xgv2HzG7eCU',
         name: 'Юра Симонов'
     },
     {
