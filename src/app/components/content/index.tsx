@@ -6,7 +6,7 @@ import { ContentArrows } from '../content-arrows';
 
 import heading from '../images/heading.png';
 import { TFighter } from "../models";
-import { FIGHTERS, FIGHTERS_LAST_ROW, TRUE_FIGHTERS } from "../ consts";
+import { FIGHTERS, FIGHTERS_LAST_ROW, TRUE_FIGHTERS } from "../consts";
 import { useContentApi } from "./hooks";
 
 

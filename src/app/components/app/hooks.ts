@@ -1,7 +1,7 @@
 import React from "react";
 
 import { TFighter } from '../models';
-import { ALL_FIGHTERS } from '../ consts';
+import { ALL_FIGHTERS } from '../consts';
 
 export const useAppApi = () => {
     const [isScrollTop, setIsScrollTop] = React.useState(true);
